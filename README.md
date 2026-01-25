@@ -1,7 +1,6 @@
 ## Ola eu sou Gustavo Henrique, estudante de programação Web 
 
-- 🔭 Hoje trabalho com administração de redes
-- 🌱 Estudando Html, css, Javascript, Firebase e MongoDB
+- 🌱 Programador PHP.
 - 📫 Contate-me no email: gustavohenrique230503@gmail.com
 - :sparkles: 05/2003
 
